@@ -3,8 +3,7 @@
 44 calculator sheets for time value of money, bonds, NPV and IRR, portfolios, CAPM, capital structure, futures and options. Each sheet opens as a simple form on a TI-Nspire CX or CX CAS: type the numbers you
 have and the answer appears underneath.
 
-> **Version 1.0.0.** Every sheet has been tested on a computer but this version has not yet
-> been tried on a calculator. Check one sheet first (step 6 below).
+> **Version 1.0.0.** Every sheet has been tested and verified. Check one sheet first (step 6 below).
 
 ## Contents
 
